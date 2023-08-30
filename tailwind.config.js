@@ -8,6 +8,17 @@ export default {
       gray: '#C4CBDA',
       'dark-gray': '#9099AC',
     },
+    fontFamily: {
+      sans: [
+        'Poppins',
+        'ui-sans-serif',
+        'system-ui',
+        '-apple-system',
+        'BlinkMacSystemFont',
+        'Arial',
+        'sans-serif',
+      ],
+    },
   },
   plugins: [],
 };
