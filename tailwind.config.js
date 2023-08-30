@@ -3,10 +3,12 @@ export default {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     colors: {
-      'blue-dark': '#1F2228',
-      blue: '#3C3C4A',
-      gray: '#C4CBDA',
-      'dark-gray': '#9099AC',
+      primary: '#C4CBDA',
+      secondary: '#9099AC',
+      'primary-bg': '#24272e',
+      'secondary-bg': '#1f2228',
+      'primary-brd': '#3C3C4A',
+      active: '#31343d',
     },
     fontFamily: {
       sans: [
